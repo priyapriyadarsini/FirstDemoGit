@@ -1,8 +1,8 @@
 package practicelogic;
 
-public class Armstrong {
+public class Armstrong { // this is armstrong
 public static void main(String[] args) {
-	int no=153;
+		int no=153;
 	int tempno=no;
 	int r,sum=0;
 	while(no>0) {
