@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="E:/2020/Jar/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="E:/2020/Jar/ashot-1.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/2020/Jar/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="E:/2020/Jar/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/2020/Jar/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/2020/Jar/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="E:/2020/Jar/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="E:/2020/Jar/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/2020/Jar/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="E:/2020/Jar/guice-3.0.jar"/>
+	<classpathentry kind="lib" path="E:/2020/Jar/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="E:/2020/Jar/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="E:/2020/Jar/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="E:/2020/Jar/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="E:/2020/Jar/reportng-1.1.4.jar"/>
+	<classpathentry kind="lib" path="E:/2020/Jar/selenium-api-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/2020/Jar/selenium-chrome-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/2020/Jar/selenium-remote-driver-3.141.59.jar"/>
+	<classpathentry kind="lib" path="E:/2020/Jar/velocity-dep-1.4.jar"/>
+	<classpathentry kind="lib" path="E:/2020/Jar/commons-io-2.6-bin.zip"/>
+	<classpathentry kind="lib" path="E:/2020/Jar/guice-3.0.jar.zip"/>
+	<classpathentry kind="lib" path="E:/2020/Jar/jar_files.zip"/>
+	<classpathentry kind="lib" path="E:/2020/Jar/poi-bin-4.1.1-20191023.zip"/>
+	<classpathentry kind="lib" path="E:/2020/Jar/reportng-1.1.4.jar.zip"/>
+	<classpathentry kind="lib" path="E:/2020/Jar/selenium-java-3.141.59 (1).zip"/>
+	<classpathentry kind="lib" path="E:/2020/Jar/velocity-dep-1.4.jar.zip"/>
+	<classpathentry kind="lib" path="E:/2020/Jar/xmlbeans-bin-3.1.0.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

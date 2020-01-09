@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+  <groups>
+  <run>
+  <include name="A"/>
+  <exclude name="B"/>
+  <include name="C"/>
+  </run>
+  </groups>
+    <classes>
+      <class name="com.testng.group1"/>
+      <class name="com.testng.group2"/>
+      <class name="com.testng.group3"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
