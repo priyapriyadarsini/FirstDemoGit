@@ -1,5 +1,5 @@
 package com.logics;
-
+//this is pallindrome class of integer
 public class IntPali {
 public static void main(String[] args) {
 	int no=121;
